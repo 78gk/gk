@@ -1,2 +1,2 @@
 # gk
-deep projects
+simple inventory managment platform
